@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "cogbolt-diy"
+name = "bolt-diy-v2"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2025-11-23"
 pages_build_output_dir = "./build/client"
